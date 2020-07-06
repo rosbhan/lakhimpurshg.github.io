@@ -1,0 +1,146 @@
+html, body{
+	height: 100vh;
+	width: 100vw;
+	background-image: url('image/b.jpg');
+	background-position: 0% 9%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+*{
+	font-family: Berlin Sans FB;
+	margin: 0;
+	padding: 0;
+}
+.logoimg{
+	height: 7vh;
+	width: 7vw;
+}
+.navbar{
+	right: 0;top: 10vw;
+	position: fixed;
+}
+.heading{
+	font-size: 3.6vw !important;
+	text-align: center;
+	padding-top: 3vw;
+}
+.nav-link .navbar-brand{
+	color: white !important;
+
+}
+.navbar-brand{
+font-size: 3vw !important;
+}
+.nav-link{
+	font-size: 1.3vw;
+}
+.some{
+	padding-top: 100vh;
+}
+
+.content{
+margin-top: 0vw;
+margin-bottom: 35vw;
+}
+h1{
+	font-size: 5vw !important;
+}
+p{
+	font-size: 22px;
+	text-align: center;
+}
+.bgimg{
+	height: 80vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	display: flex;
+}
+.parallax{
+	height: 30vw;
+	background-image: url("image/q.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: white;
+	display: flex;
+	align-items: center;
+}
+input [type="text"]{
+	width: 25vw;
+}
+textarea{
+	width: 50vw;
+}
+.parallax2{
+	height: 40vw;
+	background-image: url("image/e.jpg");
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	color: white;
+	align-items: center;
+}
+.parallax2 h2{
+	color: black;
+	padding-bottom: 5vh;
+
+}
+.parallax2 p{
+	color: black;
+	font-size: 1.2vw;
+}
+.parallax3{
+	margin-top: 50vh;
+	height: 40vw;
+	background-image: url("image/u.jpg");
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	color: white;
+	align-items: center;
+}
+.parallax4{
+	margin-top: 20vh;
+	text-align: center;
+}
+.btn1{
+	float: left;
+	background-color: transparent !important;
+	color: black !important;
+}
+.btn2{
+	float: right;
+	background-color: transparent !important;
+	color: black !important;
+}
+.cols3{
+	position: relative;
+
+}
+.count{
+	position: absolute;
+	top: 0; bottom: 0;left: 0;right: 0;
+	padding-top: 12vh;
+}
+
+.footer{
+	background-image: url('image/z.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	position: relative;
+	color: white;
+}
+.rights{
+	position: absolute;
+	bottom: 0;
+	color: white;
+	
+}
+.rights h3{
+	font-size: 1vw !important;
+}
