@@ -24,6 +24,10 @@ html, body{
 	text-align: center;
 	padding-top: 3vw;
 }
+.heading1{
+	font-size: 3vw !important;
+	text-align: center;
+}
 .nav-link .navbar-brand{
 	color: white !important;
 
